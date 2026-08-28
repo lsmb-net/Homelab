@@ -1,0 +1,5 @@
+1.) I wanted to be able to view this on the homepage/ on Web browsers if signed in. This NVR system uses RTSP and is not viewable on web browsers without some tweaking that I didnt want to make my parents have to do to view their cameras.
+  - Use Frigate to convert from RTSP to Mjpeg
+2.) The camera system is not broadcasting an RTSP url/ has no settings of it in the web GUI.
+  - I discovered that this was because of the outdated firmware (3.2.0.0, and current is 3.6.2.22). WRONG
+    --This made sense as I dont believe it was ever updated after purchase in 2021-2022 (currently 2026)
