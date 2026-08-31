@@ -1,7 +1,7 @@
 # Homelab
 repo to help organize and document my homelab journey
 
-
+PC1 (Gandalf) Is my main workhorse, While PC2 (Eru) Is mostly just for networking things to lessen the chance of over-utilization on the networking VMs.
 | Key  | Value - PC1 | Value - PC2 |
 | ------------- | ------------- | ------------- |
 | Name  | Gandalf  | Eru  |
@@ -17,7 +17,8 @@ repo to help organize and document my homelab journey
 | Storage 6 | 128GB Sata SSD  | X  |
 | Storage 7 | 128GB Sata SSD  | X  |
 | IP | 192.168.0.73  | 192.168.0.143  |
-| Net Interface | Intel   | Intel 2x  |
+| Net Interface 1 | Intel Motherboard Ethernet port  | Killer E2500 Gigabit LAN Port  |
+| Net Interface 2 | Intel 1x NIC  | Intel 2x NIC  |
 | OS | Proxmox 9.2.11  | Proxmox 9.2.11  |
 
 
