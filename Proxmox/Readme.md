@@ -26,7 +26,7 @@ SPECS
 
 VMS/Containers 
 
-| Value - PC1 | Value - PC2 |
+| Gandalf | Eru |
 | ------------- | ------------- |
 | Wazuh - 102  | Adguard Home - 104 |
 | Docker - 103 | Homepage - 110  |
