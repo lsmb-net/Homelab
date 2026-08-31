@@ -33,16 +33,3 @@ SPECS
 | OS | Proxmox 9.2.11  | Proxmox 9.2.11  |
 
 
-VMS/Containers 
-
-| Gandalf | Eru |
-| ------------- | ------------- |
-| Wazuh - 102  | Adguard Home - 104 |
-| Docker - 103 | Homepage - 110  |
-| Frigate - 601  | OPNSense - 700 |
-| Omada Controller - 702 | Wireguard - 701 |
-| Farming Simulator server (win10) - 105   | x |
-| Minecraft Server (forge) (win10) - 106 | x  |
-
-
-
