@@ -24,9 +24,9 @@ The shelf had both of my Pcs on it.
 | 24 Port Patch Panel  |
 | Unmanaged 24port TP Link switch  |
 | 7 Plug PDU  |
-| 5u Shelf for audio equpiment |
+|<br><br> 5u Shelf for audio equpiment <br><br><br>|
 | 1U Shelf for Mini-PCs |
-| 2u Shelf for storage |
+| 2u Shelf for storage <br><br> |
 
 
 # Version 2
@@ -51,21 +51,25 @@ Changes
 
 | Server Rack Layout  |
 | ------------- |
-| 2u Cover plate |
+| 2u Cover plate <br><br> |
 | 1u 7 port PDU  |
 | 1u Open for Camera NVR system  |
 | Unmanaged 24port TP Link switch  |
 | Cisco 3750x |
 | 24 Port Patch Panel  |
 | 7 Plug PDU (Display Screen)  |
-| 3u Shelf for audio equpiment |
-| 4U PC case (GANDALF) |
+|<br> 3u Shelf for audio equpiment <br><br> |
+|<br> 4U PC case (GANDALF) <br><br><br> |
 | 1u Brush plate |
 | 1u shelf with Audio interface |
 | 1u Brush plate |
-| 3U PC case (EMPTY) |
-| 3u Cover plate |
-| 3u Storage Shelf |
-| 2u Cover plate |
+|<br> 3U PC case (EMPTY) <br><br> |
+|<br> 3u Cover plate <br><br> |
+|<br> 3u Storage Shelf <br><br> |
+| 2u Cover plate <br><br> |
 | Audio equipment stored below |
+    <td>This column is wider.</td>
+    <td>Data 3</td>
+  </tr>
+</table>
 
