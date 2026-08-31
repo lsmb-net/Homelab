@@ -6,6 +6,7 @@ Material list was 6 2x4s and one 4x4 sheet of ply, one box of Torx head construc
 
 # Version 1
 <img width="150" height="400" alt="First Server Rack version" src="https://github.com/user-attachments/assets/b56ea93b-79c8-46b0-aee2-6774764df645" />
+
 -I was keeping my Patch cables plugged into patch panel + Switch to keep from losing or damaging them.
 This first version was built to the size of a 42u so that i could expand it to that size if needed/when funds allowed it.
 
@@ -19,15 +20,26 @@ and I store my audio equipment below (amp modeler, amp head, speaker cabinet)
 
 
 # Version 2
-<img width="150" height="400" alt="Second Server Rack Version" src="https://github.com/user-attachments/assets/70a019ca-d34f-4c95-b3ce-085d4bf73175" />
 Changes
 - I bought an old Cisco Catalyst 3750x Layer 3 switch
-  --I read complaints about the fan noise, but didn't think an issue of it as I normally have fans on in the room 24/7 and enjoy the white noise.
-  --However I did not realize the amount of heat that this switch would generate even with 0 PoE Devices or PoE enabled. I ended up keeping this switch to have for practice/testing with a cisco switch but purchased a different managed switch not long after.
+
+  -- I read complaints about the fan noise, but didn't think an issue of it as I normally have fans on in the room 24/7 and enjoy the white noise.
+  
+  -- However I did not realize the amount of heat that this switch would generate even with 0 PoE Devices or PoE enabled. I ended up keeping this switch to have for practice/testing with a cisco switch but purchased a different managed switch not long after.
+  
 - Purchased 7 port PDU with voltage/amperage display.
--Purchased 2x brush plates to help clean up cabling.
--Took Gandalf out of normal desktop PC case and into a test bench case (already owned) with 3d printed brackets to rack mount it. (Mounted my other open case too, but d
-idnt put pc in at this time)
-  --https://makerworld.com/en/models/2766625-rack-ears-for-joyjom-open-air-pc-case?from=search#profileId-3072342
--3D Printed a few rack cover plates
-  --https://makerworld.com/en/models/2961946-6-10-19-rack-panel-generator-blank-vented?from=search#profileId-3370217
+
+- Purchased 2x brush plates to help clean up cabling.
+
+- Purchased a 20u rack rail kit (Now at 32U total)
+
+- Took Gandalf out of normal desktop PC case and into a test bench case (already owned) with 3d printed brackets to rack mount it. (Mounted my other open case too, but didnt put pc in at this time)
+
+  -- https://makerworld.com/en/models/2766625-rack-ears-for-joyjom-open-air-pc-case?from=search#profileId-3072342
+  
+- 3D Printed a few rack cover plates
+
+  -- https://makerworld.com/en/models/2961946-6-10-19-rack-panel-generator-blank-vented?from=search#profileId-3370217
+
+<img width="150" height="400" alt="Second Server Rack Version" src="https://github.com/user-attachments/assets/70a019ca-d34f-4c95-b3ce-085d4bf73175" />
+
