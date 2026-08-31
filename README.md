@@ -1,6 +1,10 @@
 # Homelab
 repo to help organize and document my homelab journey
 
+# Topology
+Putting photo of network topology here.
+
+# Homelab Server/PCs
 PC1 (Gandalf) Is my main workhorse, While PC2 (Eru) Is mostly just for networking things to lessen the chance of over-utilization on the networking VMs.
 SPECS
 | Key  | Value - PC1 | Value - PC2 |
