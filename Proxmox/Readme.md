@@ -10,6 +10,7 @@ VMS/Containers
 | Omada Controller - 702 | Wireguard - 701 |
 | Farming Simulator server (win10) - 105   | nginx - 703 |
 | Minecraft Server (forge) (win10) - 106 | x  |
+| Jellyfin - 107 | x  |
 
 SPECS
 
