@@ -8,7 +8,7 @@ VMS/Containers
 | Docker - 103 | Homepage - 110  |
 | Frigate - 601  | OPNSense - 700 |
 | Omada Controller - 702 | Wireguard - 701 |
-| Farming Simulator server (win10) - 105   | x |
+| Farming Simulator server (win10) - 105   | nginx - 703 |
 | Minecraft Server (forge) (win10) - 106 | x  |
 
 SPECS
