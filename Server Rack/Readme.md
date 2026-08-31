@@ -1,22 +1,32 @@
 # BUILD
-I built a 42u rack server rack out of 2x4s and one-side-finished plywood. 
-I was inbetween purchasing a used 42u rack, or building; But because of cost and transporting of a full sized server rack, I decided to go with just building it.
-I built the frame first with a shelf for my personal PC and Gandalf (Which was still running Windows 10 and VMWare Workstation at the time). The materials for the frame cost around 100$, and I already had all of the tools to build it.
-Material list was 6 2x4s and one 4x4 sheet of ply, one box of Torx head construction screws, and a 12u rack rail kit.
+-I built a 42u rack server rack out of 2x4s and one-side-finished plywood. 
+
+-I was in between purchasing a used 42u rack, or building; But because of cost and transporting of a full sized server rack, I decided to go with just building it.
+
+-I built the frame first with a shelf for my personal PC and Gandalf (Which was still running Windows 10 and VMWare Workstation at the time). The materials for the frame cost around 100$, and I already had all of the tools to build it.
+
+-Material list was 6 2x4s and one 4x4 sheet of ply, one box of Torx head construction screws, and a 12u rack rail kit.
 
 # Version 1
 <img width="150" height="400" alt="First Server Rack version" src="https://github.com/user-attachments/assets/b56ea93b-79c8-46b0-aee2-6774764df645" />
 
 -I was keeping my Patch cables plugged into patch panel + Switch to keep from losing or damaging them.
-This first version was built to the size of a 42u so that i could expand it to that size if needed/when funds allowed it.
+
+-The Mini-PCs were not functional and I ended up returning them as I had plenty of spare PC parts from previous upgrading of my family and I's PCs
+
+-This first version was built to the size of a 42u so that i could expand it to that size if needed/when funds allowed it.
 
 The shelf had both of my Pcs on it.
-
-NVR for cameras and my audio interface on a shelf together.
-24 port Patch panel
-24 port unmanaged switch
-7 port PDU
-and I store my audio equipment below (amp modeler, amp head, speaker cabinet)
+| Server Rack Layout  |
+| ------------- |
+| Shelf for PCs (above rack rails) |
+| Camera NVR + Audio Interface   |
+| 24 Port Patch Panel  |
+| Unmanaged 24port TP Link switch  |
+| 7 Plug PDU  |
+| 5u Shelf for audio equpiment |
+| 1U Shelf for Mini-PCs |
+| 2u Shelf for storage |
 
 
 # Version 2
@@ -38,4 +48,24 @@ Changes
 - 3D Printed a few [Rack Cover Plates.](https://makerworld.com/en/models/2961946-6-10-19-rack-panel-generator-blank-vented?from=search#profileId-3370217)
 
 <img width="150" height="400" alt="Second Server Rack Version" src="https://github.com/user-attachments/assets/70a019ca-d34f-4c95-b3ce-085d4bf73175" />
+
+| Server Rack Layout  |
+| ------------- |
+| 2u Cover plate |
+| 1u 7 port PDU  |
+| 1u Open for Camera NVR system  |
+| Unmanaged 24port TP Link switch  |
+| Cisco 3750x |
+| 24 Port Patch Panel  |
+| 7 Plug PDU (Display Screen)  |
+| 3u Shelf for audio equpiment |
+| 4U PC case (GANDALF) |
+| 1u Brush plate |
+| 1u shelf with Audio interface |
+| 1u Brush plate |
+| 3U PC case (EMPTY) |
+| 3u Cover plate |
+| 3u Storage Shelf |
+| 2u Cover plate |
+| Audio equipment stored below |
 
