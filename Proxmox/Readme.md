@@ -1,6 +1,15 @@
+I use Gandalf for the majority of my VMs, and for any testing I can. I try to keep the workload of Eru light as possible to keep resources available for networking
 
-PC1 (Gandalf) Is my main workhorse, While PC2 (Eru) Is mostly just for networking things to lessen the chance of over-utilization on the networking VMs.
+VMS/Containers 
 
+| Gandalf | Eru |
+| ------------- | ------------- |
+| Wazuh - 102  | Adguard Home - 104 |
+| Docker - 103 | Homepage - 110  |
+| Frigate - 601  | OPNSense - 700 |
+| Omada Controller - 702 | Wireguard - 701 |
+| Farming Simulator server (win10) - 105   | x |
+| Minecraft Server (forge) (win10) - 106 | x  |
 
 SPECS
 
