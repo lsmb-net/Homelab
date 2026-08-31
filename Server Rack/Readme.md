@@ -33,13 +33,9 @@ Changes
 
 - Purchased a 20u rack rail kit (Now at 32U total)
 
-- Took Gandalf out of normal desktop PC case and into a test bench case (already owned) with 3d printed brackets to rack mount it. (Mounted my other open case too, but didnt put pc in at this time)
-
-  -- https://makerworld.com/en/models/2766625-rack-ears-for-joyjom-open-air-pc-case?from=search#profileId-3072342
+- Took Gandalf out of normal desktop PC case and into a test bench case (already owned) with [3d printed brackets](https://makerworld.com/en/models/2766625-rack-ears-for-joyjom-open-air-pc-case?from=search#profileId-3072342) to rack mount it. (Mounted my other open case too, but didnt put pc in at this time)
   
-- 3D Printed a few rack cover plates
-
-  -- https://makerworld.com/en/models/2961946-6-10-19-rack-panel-generator-blank-vented?from=search#profileId-3370217
+- 3D Printed a few [Rack Cover Plates.](https://makerworld.com/en/models/2961946-6-10-19-rack-panel-generator-blank-vented?from=search#profileId-3370217)
 
 <img width="150" height="400" alt="Second Server Rack Version" src="https://github.com/user-attachments/assets/70a019ca-d34f-4c95-b3ce-085d4bf73175" />
 
