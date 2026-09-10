@@ -1,3 +1,42 @@
+# CURRENT
+Updates from previous version
+- I was given a 42u rail kit (front and back mount, U shape instead of L shape) from my work.
+    - I moved the old rails to the back of the rack to mount storage shelves, PDUs, ETC.
+- Bought a M720Q Tiny
+    - Using spare parts I had lying around It now has 16gb DDR4 SODIMM ram, 6c/6t 8400t, and 128GB M.2 SSD.
+    - I bought a m720q riser and 2 port Intel NIC card as this will be used as my router.
+- Moved the Server rack down to the basement (more room to work with and much lower year round temperature)
+    - As the basement can periodically flood, I installed wheels onto the bottom of the server rack, which required me to shorten the frame down a bit to fit in the basement.
+- Moved the modem, old router and all of the cabling (old runs and the coax cable in from ISP) into this section of the basement
+- Closed the Server rack's sides with cabinet-grade plywood 1/4"
+- Replaced the old router (TP-LINK AXE75) with the Lenovo m720q Tiny running OPNSense inside of a Proxmox node(Frodo)
+  - I replaced the Wi-Fi function of the router with two TP-Link Omada APs; EAP225(Indoor) and Eap603(Outdoor)
+    - At the time of writing this, they are both set up but not placed in their final positions, 225 = Main floor on top of bookshelf, 603 Outside of back end of house.
+
+| Server Rack Layout  |
+| :-------------: |
+| 2u Solid Cover plate <br><br> |
+| 1u 7 port PDU (PDU1)  |
+| 1u Solid Cover plate  |
+| 1u 7 port PDU (PDU2) |
+| 1u Solid Cover plate  |
+| 24 Port Patch Panel (Patch1/P1)  |
+| HP 2530-24G J9854A (PoE+, SFP+)
+| Cisco 3750x |
+| Unmanaged 24port TP Link switch  |
+| 24 Port Patch Panel (Patch2/P2)  |
+| <br><br><br> 7U Shelf for Modem + M720q Router <br><br><br><br> |
+| 1u Open shelf for Camera NVR system / keyboard + mouse  |
+| 1u Brush plate |
+|<br> 3U PC case (GANDALF) <br><br> |
+| 1u Brush plate |
+|<br> 3U PC case (Aragorn(previously Eru)) <br><br> |
+|<br> 2 2u vented cover plates, shelf behind/ under open spot for UPS  <br><br><br>|
+|<br> 3u Cover plate <br><br> |
+|<br> 3u vented panel with intake fans <br><br> |
+|<br> 3u vented panel with intake fans <br><br> |
+| 2u Solid Cover plate <br><br> |
+
 # BUILD
 -I built a 42u rack server rack out of 2x4s and one-side-finished plywood. 
 
@@ -18,7 +57,7 @@
 
 The shelf had both of my Pcs on it.
 | Server Rack Layout  |
-| ------------- |
+| :-------------: |
 | Shelf for PCs (above rack rails) |
 | Camera NVR + Audio Interface   |
 | 24 Port Patch Panel  |
@@ -50,7 +89,7 @@ Changes
 <img width="150" height="400" alt="Second Server Rack Version" src="https://github.com/user-attachments/assets/70a019ca-d34f-4c95-b3ce-085d4bf73175" />
 
 | Server Rack Layout  |
-| ------------- |
+| :-------------: |
 | 2u Cover plate <br><br> |
 | 1u 7 port PDU  |
 | 1u Open for Camera NVR system  |
@@ -68,8 +107,3 @@ Changes
 |<br> 3u Storage Shelf <br><br> |
 | 2u Cover plate <br><br> |
 | Audio equipment stored below |
-    <td>This column is wider.</td>
-    <td>Data 3</td>
-  </tr>
-</table>
-
