@@ -31,7 +31,7 @@ PVE2 (Aragorn) is where I tested OPNSense and other networking-related services 
 | Storage 5 | 128GB Sata SSD   | X  | X | X |
 | Storage 6 | 128GB Sata SSD  | X  | X | X |
 | Storage 7 | 128GB Sata SSD  | X  | X | X |
-| IP | 192.168.0.73  | 192.168.0.143  | 192.168.0.150 |
+| IP | 192.168.1.73  | 192.168.1.143  | 192.168.1.100 |
 | Net Interface 1 | Intel Motherboard Ethernet port  | Killer E2500 Gigabit LAN Port  | Intel Ethernet I219 |
 | Net Interface 2 | Intel 1x NIC  | Intel 2x NIC  | Intel 2x NIC  |
 | OS | Proxmox 9.2.11  | Proxmox 9.2.11  | Proxmox 9.2.11  |
