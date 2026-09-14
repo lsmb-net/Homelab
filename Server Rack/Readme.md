@@ -1,7 +1,8 @@
 # CURRENT
 
-<img width="200" height="400" alt="Server Rack  9 11 1" src="https://github.com/user-attachments/assets/d21ec6d5-24ce-47ec-b1bd-14eb67ac4932" />
-<img width="200" height="400" alt="Server Rack 9 11 2" src="https://github.com/user-attachments/assets/e5fb7a72-199d-4a0f-bfc3-ea74b4742dd3" />
+<img width="400" height="800" alt="Server Rack  9 11 1" src="https://github.com/user-attachments/assets/d21ec6d5-24ce-47ec-b1bd-14eb67ac4932" />
+<img width="400" height="800" alt="Server Rack 9 11 2" src="https://github.com/user-attachments/assets/e5fb7a72-199d-4a0f-bfc3-ea74b4742dd3" />
+<img width="200" height="200" alt="EAP225 Mounted" src="https://github.com/user-attachments/assets/ffe430b7-b018-46ab-a220-3f1f12b429e2" />
 
 
 Updates from previous version
@@ -16,8 +17,9 @@ Updates from previous version
 - Closed the Server rack's sides with cabinet-grade plywood 1/4"
       - Added another 2x4 on each side of the front to recess the rails, also put the plywood on the inside just to make it look pretty
 - Replaced the old router (TP-LINK AXE75) with the Lenovo m720q Tiny running OPNSense inside of a Proxmox node(Frodo)
-  - I replaced the Wi-Fi function of the router with two TP-Link Omada APs; EAP225(Indoor) and Eap603(Outdoor)
-    - At the time of writing this, they are both set up but not placed in their final positions, 225 = Main floor on top of bookshelf, 603 Outside of back end of house.
+  - I replaced the Wi-Fi function of the router with two TP-Link Omada APs; EAP225(Indoor) and Eap603(Outdoor). Both controlled by Omada Controller hosted on Gandalf
+    - At the time of writing this, The Interior AP (EAP225) is mounted in place but, the Outside AP is not yet.
+        - 225 = Main floor on top of bookshelf, 603 Outside of back end of house.
 
 | Server Rack Layout  |
 | :-------------: |
