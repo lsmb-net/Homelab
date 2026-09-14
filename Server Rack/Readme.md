@@ -1,4 +1,9 @@
 # CURRENT
+
+<img width="200" height="400" alt="Server Rack  9 11 1" src="https://github.com/user-attachments/assets/d21ec6d5-24ce-47ec-b1bd-14eb67ac4932" />
+<img width="200" height="400" alt="Server Rack 9 11 2" src="https://github.com/user-attachments/assets/e5fb7a72-199d-4a0f-bfc3-ea74b4742dd3" />
+
+
 Updates from previous version
 - I was given a 42u rail kit (front and back mount, U shape instead of L shape) from my work.
     - I moved the old rails to the back of the rack to mount storage shelves, PDUs, ETC.
@@ -9,6 +14,7 @@ Updates from previous version
     - As the basement can periodically flood, I installed wheels onto the bottom of the server rack, which required me to shorten the frame down a bit to fit in the basement.
 - Moved the modem, old router and all of the cabling (old runs and the coax cable in from ISP) into this section of the basement
 - Closed the Server rack's sides with cabinet-grade plywood 1/4"
+      - Added another 2x4 on each side of the front to recess the rails, also put the plywood on the inside just to make it look pretty
 - Replaced the old router (TP-LINK AXE75) with the Lenovo m720q Tiny running OPNSense inside of a Proxmox node(Frodo)
   - I replaced the Wi-Fi function of the router with two TP-Link Omada APs; EAP225(Indoor) and Eap603(Outdoor)
     - At the time of writing this, they are both set up but not placed in their final positions, 225 = Main floor on top of bookshelf, 603 Outside of back end of house.
@@ -25,7 +31,7 @@ Updates from previous version
 | Cisco 3750x |
 | Unmanaged 24port TP Link switch  |
 | 24 Port Patch Panel (Patch2/P2)  |
-| <br><br><br> 7U Shelf for Modem + M720q Router <br><br><br><br> |
+| <br><br><br> 7U Shelf for Modem + M720q Router(Frodo) <br><br><br><br> |
 | 1u Open shelf for Camera NVR system / keyboard + mouse  |
 | 1u Brush plate |
 |<br> 3U PC case (GANDALF) <br><br> |
@@ -35,6 +41,7 @@ Updates from previous version
 |<br> 3u Cover plate <br><br> |
 |<br> 3u vented panel with intake fans <br><br> |
 |<br> 3u vented panel with intake fans <br><br> |
+| 1u Gap (printing a plate to fill this)  |
 | 2u Solid Cover plate <br><br> |
 
 # BUILD
