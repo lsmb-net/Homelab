@@ -4,7 +4,8 @@ repo to help organize and document my homelab journey
 I am slowly filling the information of this repo, but it will probably be a constant few days behind what I'm actually doing until I get to a good solid basepoint of everything working smoothly.
 
 # Topology
-<img width="1161" height="718" alt="Copy of Homelab Topology NODMZ (2)" src="https://github.com/user-attachments/assets/ae6c1e43-55dc-484f-87ac-b28a9e451a05" />
+<img width="1112" height="718" alt="Copy of Homelab Topology NODMZ (4)" src="https://github.com/user-attachments/assets/3e1b4a74-cf7d-4884-a5c3-f49c563c8625" />
+
 
 
 
