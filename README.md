@@ -6,7 +6,7 @@ I am slowly filling the information of this repo, but it will probably be a cons
 # Topology
 Putting photo of network topology here.
 
-# Homelab Server/PCs
+# Homelab Server/PCs Overview
 PVE1 (Gandalf) is my main workhorse where I host things like wazuh, jellyfin, home assistant, and my dedicated game servers.
 
 PVE2 (Aragorn) is my test rig, and is currently housing my test Active Directory environment. 
@@ -15,7 +15,7 @@ PVE3 (Frodo) is currently my router where OPNSense is located. Many of the servi
 
 PVE2 (Aragorn) is where I tested OPNSense and other networking-related services (Adguard Home, nginx) while I waited for PVE3 (Frodo) to be delivered; I was still using a TP-Link AXE75 router during this time, which is now the backup incase anything happens to PVE3 (Frodo). This is currently housing my test Active Directory environment.
 
-# SPECS
+# Server/PC SPECS
 
 | Key  | Value - PVE1 | Value - PVE2 | Value - PVE3 |
 | ------------- | ------------- | ------------- | ------------- |
@@ -36,5 +36,6 @@ PVE2 (Aragorn) is where I tested OPNSense and other networking-related services 
 | Net Interface 2 | Intel 1x NIC  | Intel 2x NIC  | Intel 2x NIC  |
 | OS | Proxmox 9.2.11  | Proxmox 9.2.11  | Proxmox 9.2.11  |
 
+# VMs and Containers
 
 
