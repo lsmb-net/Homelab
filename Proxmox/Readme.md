@@ -4,7 +4,7 @@ I use Gandalf for the majority of my VMs, and for any testing I can. I try to ke
 
 | Gandalf (PVE1) | Aragorn (PVE2) | Frodo (PVE3) |
 | ------------- | ------------- | ------------- |
-| [Wazuh]([Wazuh-(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Wazuh%20(LXC))) - 102  | Home Assistant - x| OPNsense - 700 |
+| [Wazuh-(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Wazuh%20(LXC)) - 102  | Home Assistant - x| OPNsense - 700 |
 | x | x  | x |
 | Frigate - 601  | x| x |
 | Omada Controller - 702 | x | x |
