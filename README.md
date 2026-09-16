@@ -4,7 +4,9 @@ repo to help organize and document my homelab journey
 I am slowly filling the information of this repo, but it will probably be a constant few days behind what I'm actually doing until I get to a good solid basepoint of everything working smoothly.
 
 # Topology
-Putting photo of network topology here.
+<img width="1162" height="718" alt="Copy of Homelab Topology NODMZ (1)" src="https://github.com/user-attachments/assets/48437954-50d7-4121-9595-749fae76ae63" />
+
+
 
 # Homelab Server/PCs Overview
 PVE1 (Gandalf) is my main workhorse where I host things like wazuh, jellyfin, home assistant, and my dedicated game servers.
