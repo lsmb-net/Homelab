@@ -3,14 +3,13 @@ I use Gandalf for the majority of my VMs, and for any testing I can. I try to ke
 # VMS/Containers 
 
 | Gandalf (PVE1) | Aragorn (PVE2) | Frodo (PVE3) |
-| ------------- | ------------- | ------------- |
-| [Wazuh-(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Wazuh%20(LXC)) - 102  | Home Assistant - x| OPNsense - 700 |
-| x | x  | x |
-| Frigate - 601  | x| x |
-| Omada Controller - 702 | x | x |
-| Farming Simulator server (win10) - 105   | x | x |
-| Minecraft Server (forge) (win10) - 106 | x  | x |
-| Jellyfin - 107 | x  | x |
+| :-------------: | :-------------: | :-------------: |
+| [Wazuh-(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Wazuh%20(LXC)) - 102  | [Home Assistant(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Home%20Assistant%20(LXC)) - x| [OPNsense](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/OPNSense) - 700 |
+| [Jellyfin](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Jellyfin%20(LXC)) - 107 | [Active Directory Test Environment](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Active%20Directory)  | x |
+| [Frigate(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Frigate%20(LXC)) - 601  | x| x |
+| [Omada Controller(LXC)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Omada%20Controller%20(LXC)) - 702 | x | x |
+| [Farming Simulator server (win10)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Dedicated%20Game%20Servers) - 105   | x | x |
+| [Minecraft Server (forge) (win10)](https://github.com/lsmb-net/Homelab/tree/4ff2136ed5298c8b2175eac3379bf0b0ac22fe02/Proxmox/Dedicated%20Game%20Servers) - 106 | x  | x |
 
 # SPECS
 
