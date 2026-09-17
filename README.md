@@ -24,7 +24,7 @@ PVE2 (Aragorn) is where I tested OPNSense and other networking-related services 
 
 | Key  | Value - PVE1 | Value - PVE2 | Value - PVE3 |
 | ------------- | ------------- | ------------- | ------------- |
-| Name  | Gandalf  | Eru  | Frodo |
+| Name  | Gandalf  | Eru  | [Frodo](https://github.com/lsmb-net/Homelab/tree/b134eb719abf142d5d44489ae7068110ea44adc3/Devices/M720q%20Router) |
 | Processor  | Intel i5-14600k  | Intel i5-7700k  | Intel i5-8400T |
 | Cores/Threads  | 14c/20t  | 4c/8t  | 6c/6t |
 | RAM  | 32gb DDR4 | 16GB DDR4 | 32GB SODIMM DDR4 |
